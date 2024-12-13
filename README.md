@@ -7,4 +7,4 @@ This is a simple practice program implementing a circular buffer (ring buffer) i
 - Display the buffer contents
 
 ## How to Run
-Clone this repository and run the program with:
+Clone this repository and run the program with: cargo run
